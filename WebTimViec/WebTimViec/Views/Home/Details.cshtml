@@ -1,0 +1,65 @@
+﻿@model FindJob.Model.Entities.Jobs
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_LayoutDetail.cshtml";
+}
+
+<h1>ㅤ</h1>
+<div class="block">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 column">
+                <div class="job-single-sec">
+                    <div class="job-single-head">
+                        <div class="c-logo"> <img src="@Model.ImageUrl" alt="@Model.Name" /> </div>
+                        <div class="job-head-info">
+                            <h4>@Model.Name</h4>
+                            <p><i class="la la-unlink"></i>TimViec.Com</p>
+                        </div>
+                    </div><!-- Job Head -->
+                    <div class="job-details">
+                        <h3>Mô tả công việc</h3>
+                        <p>@Model.Description</p>
+                        <h3>Vị trí:</h3>
+                        <p>@Model.Position</p>
+                        <h3>Kỹ năng và khả năng yêu cầu:</h3>
+                        <p>@Model.Experience</p>
+                        <h3>Yêu cầu về học vấn và kinh nghiệm:</h3>
+                        <p> @Model.Require</p>
+                    </div>
+                    <div class="share-bar">
+                        <span>Chia sẻ</span><a href="#" title="" class="share-fb"><i class="fa fa-facebook"></i></a><a href="#" title="" class="share-twitter"><i class="fa fa-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 column">
+                <form method="post" enctype="multipart/form-data" action="@Url.Action("AddToCart", "Cart", new { jobId = Model.Id })">
+                    <input type="file" name="cvFile" required />
+                    <button type="submit" class="apply-thisjob"><i class="la la-paper-plane"></i>Nộp đơn</button>
+                </form>
+                <div class="job-overview">
+                    <h3>Tổng quan công việc</h3>
+                    <ul>
+                        <li><i class="la la-money"></i><h3>Lương</h3><span>@Model.Salary</span></li>
+                        <li><i class="la la-puzzle-piece"></i><h3>Ngành nghề</h3><span>@Model.Industry</span></li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .custom-file-upload {
+        border: 1px solid #ccc;
+        display: inline-block;
+        padding: 6px 12px;
+        cursor: pointer;
+        background-color: #f9f9f9;
+    }
+
+        .custom-file-upload:hover {
+            background-color: #e9e9e9;
+        }
+</style>
+

@@ -1,0 +1,60 @@
+D:\WebTimViec\FindJob.Model\bin\Debug\net5.0\FindJob.Model.deps.json
+D:\WebTimViec\FindJob.Model\bin\Debug\net5.0\FindJob.Model.runtimeconfig.json
+D:\WebTimViec\FindJob.Model\bin\Debug\net5.0\FindJob.Model.runtimeconfig.dev.json
+D:\WebTimViec\FindJob.Model\bin\Debug\net5.0\FindJob.Model.dll
+D:\WebTimViec\FindJob.Model\bin\Debug\net5.0\ref\FindJob.Model.dll
+D:\WebTimViec\FindJob.Model\bin\Debug\net5.0\FindJob.Model.pdb
+D:\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.csproj.AssemblyReference.cache
+D:\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.AssemblyInfoInputs.cache
+D:\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.AssemblyInfo.cs
+D:\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.csproj.CoreCompileInputs.cache
+D:\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.dll
+D:\WebTimViec\FindJob.Model\obj\Debug\net5.0\ref\FindJob.Model.dll
+D:\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.pdb
+D:\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.genruntimeconfig.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\bin\Debug\net5.0\FindJob.Model.deps.json
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\bin\Debug\net5.0\FindJob.Model.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\bin\Debug\net5.0\FindJob.Model.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\bin\Debug\net5.0\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\bin\Debug\net5.0\ref\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\bin\Debug\net5.0\FindJob.Model.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\obj\Debug\net5.0\ref\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Model\obj\Debug\net5.0\FindJob.Model.genruntimeconfig.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\bin\Debug\net5.0\FindJob.Model.deps.json
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\bin\Debug\net5.0\FindJob.Model.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\bin\Debug\net5.0\FindJob.Model.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\bin\Debug\net5.0\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\bin\Debug\net5.0\ref\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\bin\Debug\net5.0\FindJob.Model.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\obj\Debug\net5.0\FindJob.Model.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\obj\Debug\net5.0\FindJob.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\obj\Debug\net5.0\FindJob.Model.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\obj\Debug\net5.0\FindJob.Model.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\obj\Debug\net5.0\FindJob.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\obj\Debug\net5.0\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\obj\Debug\net5.0\ref\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\obj\Debug\net5.0\FindJob.Model.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Model\obj\Debug\net5.0\FindJob.Model.genruntimeconfig.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\bin\Debug\net5.0\FindJob.Model.deps.json
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\bin\Debug\net5.0\FindJob.Model.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\bin\Debug\net5.0\FindJob.Model.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\bin\Debug\net5.0\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\bin\Debug\net5.0\ref\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\bin\Debug\net5.0\FindJob.Model.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\obj\Debug\net5.0\FindJob.Model.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\obj\Debug\net5.0\FindJob.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\obj\Debug\net5.0\FindJob.Model.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\obj\Debug\net5.0\FindJob.Model.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\obj\Debug\net5.0\FindJob.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\obj\Debug\net5.0\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\obj\Debug\net5.0\ref\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\obj\Debug\net5.0\FindJob.Model.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Model\obj\Debug\net5.0\FindJob.Model.genruntimeconfig.cache

@@ -1,0 +1,51 @@
+﻿@model FindJob.Model.Entities.Jobs
+@{
+    Layout = "~/Areas/Administrator/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container mt-5">
+    <h2>Sửa công việc</h2>
+    <form asp-action="Edit" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group">
+            <label for="ImageUrl">Đường dẫn ảnh:</label>
+            <input type="text" class="form-control" id="ImageUrl" name="ImageUrl" asp-for="ImageUrl" required>
+        </div>
+        <div class="form-group">
+            <label for="Name">Tên công Ty:</label>
+            <input type="text" class="form-control" id="Name" name="Name" asp-for="Name" required>
+        </div>
+        <div class="form-group">
+            <label for="JobCode">Mã công việc:</label>
+            <input type="text" class="form-control" id="JobCode" name="JobCode" asp-for="JobCode" required>
+        </div>
+        <div class="form-group">
+            <label for="Industry">Ngành:</label>
+            <input type="text" class="form-control" id="Industry" name="Industry" asp-for="Industry" required>
+        </div>
+        <div class="form-group">
+            <label for="Salary">Lương:</label>
+            <input type="number" class="form-control" id="Salary" name="Salary" asp-for="Salary" required>
+        </div>
+        <div class="form-group">
+            <label for="Position">Vị trí:</label>
+            <input type="text" class="form-control" id="Position" name="Position" asp-for="Position" required>
+        </div>
+        <div class="form-group">
+            <label for="Description">Mô tả:</label>
+            <textarea class="form-control" id="Description" name="Description" asp-for="Description" rows="4"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="Experience">Kinh nghiệm yêu cầu:</label>
+            <input type="text" class="form-control" id="Experience" name="Experience" asp-for="Experience">
+        </div>
+        <div class="form-group">
+            <label for="Require">Trình độ học vấn yêu cầu:</label>
+            <input type="text" class="form-control" id="Require" name="Require" asp-for="Require">
+        </div>
+        <div class="form-group">
+            <label for="CategoryId">Danh mục:</label>
+            <input type="number" class="form-control" id="CategoryId" name="CategoryId" asp-for="CategoryId" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+    </form>
+</div>

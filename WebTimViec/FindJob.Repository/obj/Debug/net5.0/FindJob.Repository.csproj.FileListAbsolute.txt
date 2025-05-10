@@ -1,0 +1,80 @@
+D:\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.deps.json
+D:\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.dll
+D:\WebTimViec\FindJob.Repository\bin\Debug\net5.0\ref\FindJob.Repository.dll
+D:\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.pdb
+D:\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.IRepository.dll
+D:\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Model.dll
+D:\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.IRepository.pdb
+D:\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Model.pdb
+D:\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.csproj.AssemblyReference.cache
+D:\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.AssemblyInfoInputs.cache
+D:\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.AssemblyInfo.cs
+D:\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.csproj.CoreCompileInputs.cache
+D:\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.csproj.CopyComplete
+D:\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.dll
+D:\WebTimViec\FindJob.Repository\obj\Debug\net5.0\ref\FindJob.Repository.dll
+D:\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.pdb
+D:\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.runtimeconfig.json
+D:\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.runtimeconfig.dev.json
+D:\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.genruntimeconfig.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.deps.json
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\bin\Debug\net5.0\ref\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.IRepository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.IRepository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\bin\Debug\net5.0\FindJob.Model.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\obj\Debug\net5.0\ref\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.genruntimeconfig.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.deps.json
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\bin\Debug\net5.0\ref\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\bin\Debug\net5.0\FindJob.IRepository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\bin\Debug\net5.0\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\bin\Debug\net5.0\FindJob.IRepository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\bin\Debug\net5.0\FindJob.Model.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\obj\Debug\net5.0\ref\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.genruntimeconfig.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.deps.json
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\bin\Debug\net5.0\ref\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\bin\Debug\net5.0\FindJob.Repository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\bin\Debug\net5.0\FindJob.IRepository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\bin\Debug\net5.0\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\bin\Debug\net5.0\FindJob.IRepository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\bin\Debug\net5.0\FindJob.Model.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\obj\Debug\net5.0\ref\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\FindJob.Repository\obj\Debug\net5.0\FindJob.Repository.genruntimeconfig.cache

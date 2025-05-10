@@ -1,0 +1,94 @@
+﻿@model List<FindJob.Model.Entities.Jobs>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Administrator/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row mt-3">
+        <div class="col-12 d-flex justify-content-between align-items-center">
+            <h2>Danh sách công việc</h2>
+            <a href="/Administrator/HomeAdmin/Create" class="btn btn-outline-info">Thêm công việc mới</a>
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-12">
+            <table class="table table-hover table-bordered table-striped">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Hình ảnh</th>
+                        <th>Tên công việc</th>
+                        <th>Mã công việc</th>
+                        <th>Ngành</th>
+                        <th>Vị trí</th>
+                        <th>Lương</th>
+                        <th>Hành động</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var job in Model)
+                    {
+                        <tr>
+                            <td style="width: 100px;">
+                                <img src="@job.ImageUrl" alt="@job.Name" class="img-thumbnail" style="width: 100px; height: 60px; object-fit: cover;" />
+                            </td>
+                            <td>
+                                <a class="nav-link text-dark p-0" asp-area="" asp-controller="Job" asp-action="Details" asp-route-id="@job.Id">@job.Name</a>
+                            </td>
+                            <td>@job.JobCode</td>
+                            <td>@job.Industry</td>
+                            <td>@job.Position</td>
+                            <td>@job.Salary  USD</td>
+                            <td>
+                                <div class="d-flex">
+                                    <a href="/Action/Edit/@job.Id" class="btn btn-success btn-sm me-1">Sửa</a>
+                                    <a href="/Action/Delete/@job.Id" class="btn btn-danger btn-sm">Xóa</a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<style>
+    .table th, .table td {
+        vertical-align: middle;
+        text-align: center;
+    }
+
+    .table thead th {
+        background-color: #343a40;
+        color: #fff;
+    }
+
+    .table .nav-link:hover {
+        text-decoration: none;
+    }
+
+    .btn-success, .btn-danger {
+        margin-left: 5px;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+        border-color: #28a745;
+    }
+
+        .btn-success:hover {
+            background-color: #218838;
+            border-color: #1e7e34;
+        }
+
+    .btn-danger {
+        background-color: #dc3545;
+        border-color: #dc3545;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+            border-color: #bd2130;
+        }
+</style>

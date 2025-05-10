@@ -1,0 +1,1225 @@
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\appsettings.Development.json
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\appsettings.json
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.exe
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.deps.json
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.runtimeconfig.json
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.runtimeconfig.dev.json
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ref\WebTimViec.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.pdb
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.Views.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.Views.pdb
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\FindJob.Model.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\FindJob.Model.pdb
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.csproj.AssemblyReference.cache
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.AssemblyInfoInputs.cache
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.AssemblyInfo.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.csproj.CoreCompileInputs.cache
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.MvcApplicationPartsAssemblyInfo.cache
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorAssemblyInfo.cache
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorAssemblyInfo.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\staticwebassets\WebTimViec.StaticWebAssets.Manifest.cache
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\staticwebassets\WebTimViec.StaticWebAssets.xml
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\scopedcss\bundle\WebTimViec.styles.css
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.TagHelpers.input.cache
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.TagHelpers.output.cache
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorCoreGenerate.cache
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorTargetAssemblyInfo.cache
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorTargetAssemblyInfo.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.Views.pdb
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.csproj.CopyComplete
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.dll
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\ref\WebTimViec.dll
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.pdb
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.genruntimeconfig.cache
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Humanizer.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\FindJob.IRepository.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\FindJob.Repository.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\FindJob.Repository.pdb
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\FindJob.IRepository.pdb
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Cake.Powershell.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Markdig.Signed.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\Namotion.Reflection.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\NJsonSchema.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.CodeDom.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ComponentModel.Composition.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ComponentModel.Composition.Registration.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Data.Odbc.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Data.OleDb.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.DirectoryServices.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.DirectoryServices.AccountManagement.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.IO.Packaging.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.IO.Ports.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Management.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Net.Http.WinHttpHandler.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Private.ServiceModel.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Reflection.Context.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Http.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Security.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Syndication.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceProcess.ServiceController.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Threading.AccessControl.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.Management.Infrastructure.CimCmdlets.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\mi.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\miutils.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\mi.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\miutils.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\native\mi.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\native\miutils.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\native\mi.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\native\miutils.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\native\mi.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\native\miutils.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\native\mi.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\native\miutils.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\native\mi.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\native\miutils.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\native\mi.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\native\miutils.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\native\mi.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\native\miutils.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\native\mi.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\native\miutils.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Diagnostics.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.CoreCLR.Eventing.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm\native\libpsl-native.so
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm64\native\libpsl-native.so
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libpsl-native.so
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libmi.so
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libpsl-native.so
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libpsrpclient.so
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx\native\libmi.dylib
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx\native\libpsl-native.dylib
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx\native\libpsrpclient.dylib
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\pwrshplugin.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\pwrshplugin.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\pwrshplugin.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\pwrshplugin.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.SDK.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.SDK.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Security.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Security.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.WSMan.Management.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.WSMan.Runtime.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\System.Management.Automation.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\System.Management.Automation.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_MainLayout.cshtml.g.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\HomeAdmin\Create.cshtml.g.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\HomeAdmin\Edit.cshtml.g.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\HomeAdmin\Index.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\appsettings.json
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.exe
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.deps.json
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ref\WebTimViec.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.Views.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\WebTimViec.Views.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Cake.Powershell.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Markdig.Signed.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\NJsonSchema.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ComponentModel.Composition.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Data.OleDb.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Reflection.Context.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Syndication.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\System.Threading.AccessControl.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.Management.Infrastructure.CimCmdlets.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Diagnostics.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.CoreCLR.Eventing.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libmi.so
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx\native\libmi.dylib
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx\native\libpsl-native.dylib
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.WSMan.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.WSMan.Runtime.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\System.Management.Automation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\System.Management.Automation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\FindJob.IRepository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\FindJob.Model.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\FindJob.Repository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\bin\Debug\net5.0\FindJob.IRepository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorAssemblyInfo.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorAssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\staticwebassets\WebTimViec.StaticWebAssets.Manifest.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\staticwebassets\WebTimViec.StaticWebAssets.xml
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\scopedcss\bundle\WebTimViec.styles.css
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.TagHelpers.input.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.TagHelpers.output.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorCoreGenerate.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\HomeAdmin\Create.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\HomeAdmin\Index.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_MainLayout.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorTargetAssemblyInfo.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorTargetAssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.Views.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\ref\WebTimViec.dll
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\WebTimViec.genruntimeconfig.cache
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\HomeAdmin\Edit.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Home\GioiThieu.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_LayoutDetail.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Ation\Edit.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec\WebTimViec\obj\Debug\net5.0\Razor\Views\Action\Edit.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\appsettings.json
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\WebTimViec.exe
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\WebTimViec.deps.json
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\WebTimViec.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\WebTimViec.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\WebTimViec.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ref\WebTimViec.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\WebTimViec.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\WebTimViec.Views.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\WebTimViec.Views.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Cake.Powershell.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Markdig.Signed.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\NJsonSchema.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.ComponentModel.Composition.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Data.OleDb.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Reflection.Context.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Syndication.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\System.Threading.AccessControl.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.Management.Infrastructure.CimCmdlets.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Diagnostics.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.CoreCLR.Eventing.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libmi.so
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\osx\native\libmi.dylib
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\osx\native\libpsl-native.dylib
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.WSMan.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.WSMan.Runtime.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\System.Management.Automation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\System.Management.Automation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\FindJob.IRepository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\FindJob.Model.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\FindJob.Repository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\bin\Debug\net5.0\FindJob.IRepository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorAssemblyInfo.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorAssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\staticwebassets\WebTimViec.StaticWebAssets.Manifest.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\staticwebassets\WebTimViec.StaticWebAssets.xml
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\scopedcss\bundle\WebTimViec.styles.css
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.TagHelpers.input.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.TagHelpers.output.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorCoreGenerate.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\HomeAdmin\Create.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\HomeAdmin\Edit.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\HomeAdmin\Index.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Views\Action\Edit.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Views\Home\GioiThieu.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_LayoutDetail.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_MainLayout.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorTargetAssemblyInfo.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorTargetAssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.Views.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\ref\WebTimViec.dll
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\WebTimViec.genruntimeconfig.cache
+C:\Users\Gigabyte\Desktop\WebTimViec - Copy\WebTimViec\obj\Debug\net5.0\Razor\Views\Cart\ViewCart.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\appsettings.json
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\WebTimViec.exe
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\WebTimViec.deps.json
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\WebTimViec.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\WebTimViec.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\WebTimViec.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ref\WebTimViec.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\WebTimViec.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\WebTimViec.Views.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\WebTimViec.Views.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Cake.Powershell.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Markdig.Signed.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\NJsonSchema.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.ComponentModel.Composition.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Data.OleDb.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Reflection.Context.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.ServiceModel.Syndication.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\System.Threading.AccessControl.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.Management.Infrastructure.CimCmdlets.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win10-x64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win10-x86\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win7-x64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win7-x86\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win8-x64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win8-x86\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win81-x64\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\native\mi.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win81-x86\native\miutils.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Diagnostics.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.CoreCLR.Eventing.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libmi.so
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\osx\native\libmi.dylib
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\osx\native\libpsl-native.dylib
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.WSMan.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\Microsoft.WSMan.Runtime.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\unix\lib\net5.0\System.Management.Automation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\net5.0\System.Management.Automation.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\FindJob.IRepository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\FindJob.Model.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\FindJob.Repository.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\FindJob.Model.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\FindJob.Repository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\bin\Debug\net5.0\FindJob.IRepository.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorAssemblyInfo.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorAssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\staticwebassets\WebTimViec.StaticWebAssets.Manifest.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\staticwebassets\WebTimViec.StaticWebAssets.xml
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\scopedcss\bundle\WebTimViec.styles.css
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.TagHelpers.input.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.TagHelpers.output.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorCoreGenerate.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\HomeAdmin\Create.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\HomeAdmin\Edit.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\HomeAdmin\Index.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\Action\Edit.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\Cart\ViewCart.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\Home\GioiThieu.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_LayoutDetail.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_MainLayout.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorTargetAssemblyInfo.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.RazorTargetAssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.Views.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\ref\WebTimViec.dll
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.pdb
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\WebTimViec.genruntimeconfig.cache
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Areas\Administrator\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Gigabyte\Desktop\WebTimViec hoàn thành\WebTimViec\obj\Debug\net5.0\Razor\Views\Action\SearchResults.cshtml.g.cs

@@ -1,0 +1,190 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BTLon2019</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/Cssjob/css/bootstrap-grid.css" />
+    <link rel="stylesheet" href="~/Cssjob/css/icons.css">
+    <link rel="stylesheet" href="~/Cssjob/css/animate.min.css">
+    <link rel="stylesheet" href="~/Cssjob/css/style.css" />
+    <link rel="stylesheet" href="~/Cssjob/css/responsive.css" />
+    <link rel="stylesheet" href="~/Cssjob/css/chosen.css" />
+    <link rel="stylesheet" href="~/Cssjob/css/colors/colors.css" />
+    <link rel="stylesheet" href="~/Cssjob/css/bootstrap.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+    <link rel="stylesheet" href="~/Cssjob/libs/slickslider/slick.css">
+    <link rel="stylesheet" href="~/Cssjob/libs/slickslider/slick-theme.css">
+</head>
+<body>
+    <header>
+        <div class="page-loading">
+            <img src="~/Cssjob/images/loader.gif" alt="" />
+        </div>
+
+        <div class="theme-layout" id="scrollup">
+
+            <div class="responsive-header">
+                <div class="responsive-menubar">
+                    <div class="res-logo"><a href="/" title=""><img src="~/Cssjob/images/resource/logo1010.png" alt="" /></a></div>
+                    <div class="menu-resaction">
+                        <div class="res-openmenu">
+                            <img src="~/Cssjob/images/icon.png" alt="" /> Menu
+                        </div>
+                        <div class="res-closemenu">
+                            <img src="~/Cssjob/images/icon2.png" alt="" /> Close
+                        </div>
+                    </div>
+                </div>
+                <div class="responsive-opensec">
+                    <div class="btn-extars">
+                        <ul class="account-btns">
+                            <li class="signup-popup"><a title=""><i class="la la-key"></i> Đăng Ký</a></li>
+                            <li class="signin-popup"><a title=""><i class="la la-external-link-square"></i> Đăng Nhập</a></li>
+                        </ul>
+                    </div><!-- Btn Extras -->
+                    <form class="res-search">
+                        <input type="text" placeholder="Từ khóa công việc hoặc tên công ty" />
+                        <button type="submit"><i class="la la-search"></i></button>
+                    </form>
+                    <div class="responsivemenu">
+                        <ul>
+                            <li>
+                                <a href="#" title="">Trang Chủ</a>
+                            </li>
+                            <li>
+                                <a href="#" title="">Ứng Viên</a>
+                            </li>
+                            <li>
+                                <a href="#" title="">Tin Tức</a>
+                            </li>
+                            <li class="menu-item-has-children">
+                                <a href="#" title="">Khám Phá</a>
+                                <ul>
+                                    <li><a href="#" title="">Thư xin việc</a></li>
+                                    <li><a href="#" title="">Thư mời ứng tuyển</a></li>
+                                    <li><a href="#" title="">Bảng Giá</a></li>
+                                    <li><a href="#" title="">Công ty</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <header class="stick-top forsticky alsticky">
+                <div class="menu-sec">
+                    <div class="container">
+                        <div class="logo">
+                            <a href="" title=""><img class="hidesticky" src="~/Cssjob/images/resource/logo.png" alt="" /><img class="showsticky" src="~/Cssjob/images/resource/logo1010.png.png" alt="" /></a>
+                        </div><!-- Logo -->
+                        <div class="btn-extars">
+                            <ul class="account-btns">
+                                <li class="signup-popup"><a title=""><i class="la la-key"></i> Đăng Ký</a></li>
+                                <li class="signin-popup"><a title=""><i class="la la-external-link-square"></i> Đăng Nhập</a></li>
+                            </ul>
+                        </div><!-- Btn Extras -->
+                        <nav>
+                            <ul>
+                                <li>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Trang Chủ</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link text-dark" asp-area="Giới Thiệu" asp-controller="Home" asp-action="GioiThieu">Giới Thiệu</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link text-dark" asp-area="Hồ Sơ" asp-controller="Cart" asp-action="ViewCart">Hồ Sơ</a>
+                                </li>
+                            </ul>
+                        </nav><!-- Menus -->
+                    </div>
+                </div>
+
+            </header>
+            <div class="container">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+
+            <footer>
+                <div class="block">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-3 column">
+                                <div class="widget">
+                                    <div class="about_widget">
+                                        <div class="logo">
+                                            <a href="index.html" title=""><img src="../Cssjob/images/resource/logo1010.png" alt="" /></a>
+                                        </div>
+                                        <span>Việt Nam - Hà Nội.</span>
+                                        <span>+84 0979856724</span>
+                                        <span>DangTruongDuong@gmai.com</span>
+                                        <div class="social">
+                                            <a href="#" title=""><i class="fa fa-facebook"></i></a>
+                                            <a href="#" title=""><i class="fa fa-twitter"></i></a>
+                                            <a href="#" title=""><i class="fa fa-linkedin"></i></a>
+                                            <a href="#" title=""><i class="fa fa-pinterest"></i></a>
+                                            <a href="#" title=""><i class="fa fa-behance"></i></a>
+                                        </div>
+                                    </div><!-- Về Widget -->
+                                </div>
+                            </div>
+                            <div class="col-lg-4 column">
+                                <div class="widget">
+                                    <h3 class="footer-title">Câu Hỏi Thường Gặp</h3>
+                                    <div class="link_widgets">
+                                        <div class="row">
+                                            <div class="col-lg-6">
+                                                <a href="#" title="">Quyền Riêng Tư &amp; Bảo Mật </a>
+                                                <a href="#" title="">Điều Khoản Dịch Vụ</a>
+                                                <a href="#" title="">Liên Lạc </a>
+                                                <a href="#" title="">Điều Khoản Giới Thiệu </a>
+                                                <a href="#" title="">Giấy Phép Cho Vay </a>
+                                                <a href="#" title="">Miễn Trừ Trách Nhiệm </a>
+                                            </div>
+                                            <div class="col-lg-6">
+                                                <a href="#" title="">Hỗ Trợ </a>
+                                                <a href="#" title="">Cách Hoạt Động </a>
+                                                <a href="#" title="">Dành Cho Nhà Tuyển Dụng </a>
+                                                <a href="#" title="">Dưới Vai Trò Đảm Bảo </a>
+                                                <a href="#" title="">Liên Hệ Chúng Tôi</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3 column">
+                                <div class="widget">
+                                    <div class="download_widget">
+                                        <a href="#" title=""><img src="../Cssjob/images/resource/dw1.png" alt="" /></a>
+                                        <a href="#" title=""><img src="../Cssjob/images/resource/dw2.png" alt="" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <script src="~/lib/jquery/dist/jquery.min.js"></script>
+            <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+            <script src="~/js/site.js" asp-append-version="true"></script>
+            @await RenderSectionAsync("Scripts", required: false)
+
+            <script src="~/Cssjob/js/jquery.min.js" type="text/javascript"></script>
+            <script src="~/Cssjob/js/modernizr.js" type="text/javascript"></script>
+            <script src="~/Cssjob/js/script.js" type="text/javascript"></script>
+            <script src="~/Cssjob/js/bootstrap.min.js" type="text/javascript"></script>
+            <script src="~/Cssjob/js/wow.min.js" type="text/javascript"></script>
+            <script src="~/Cssjob/js/slick.min.js" type="text/javascript"></script>
+            <script src="~/Cssjob/js/parallax.js" type="text/javascript"></script>
+            <script src="~/Cssjob/js/select-chosen.js" type="text/javascript"></script>
+            <script src="~/Cssjob/libs/slickslider/slick.min.js" type="text/javascript"></script>
+            <script src="~/Cssjob/libs/slickslider/home-slick.js" type="text/javascript"></script>
+</body>
+</html>

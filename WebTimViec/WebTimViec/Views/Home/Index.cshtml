@@ -1,0 +1,94 @@
+﻿@model List<FindJob.Model.Entities.Jobs>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row mt-3">
+        <div class="col-12 d-flex justify-content-between align-items-center">
+        </div>
+    </div>
+    <div class="row mt-3">
+        @foreach (var job in Model)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card h-100 shadow-sm" asp-controller="Home" asp-action="Details" asp-route-id="@job.Id">
+                    <img src="@job.ImageUrl" class="card-img-top" alt="@job.Name" style="object-fit: cover; height: 200px;" />
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <a class="nav-link text-dark p-0" asp-area="" asp-controller="Home" asp-action="Details" asp-route-id="@job.Id">@job.Name</a>
+                        </h5>
+                        <p class="card-text">
+                            <strong>Ngành:</strong> @job.Industry<br>
+                            <strong>Vị trí:</strong> @job.Position<br>
+                            <strong>Lương:</strong> <i class="las la-wallet"></i> @job.Salary USD
+                        </p>
+                    </div>
+                    <div class="card-footer d-flex justify-content-between align-items-center">
+                        <span class="fav-job"><i class="la la-heart-o"></i></span>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="pagination">
+        @if (ViewBag.CurrentPage > 1)
+        {
+            <a class="btn btn-outline-dark" asp-action="Index" asp-route-pageNumber="@(ViewBag.CurrentPage - 1)">Trước</a>
+        }
+        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+        {
+            <a class="btn @(i == ViewBag.CurrentPage ? "btn-dark" : "btn-outline-dark")" asp-action="Index" asp-route-pageNumber="@i">@i</a>
+        }
+        @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+        {
+            <a class="btn btn-outline-dark" asp-action="Index" asp-route-pageNumber="@(ViewBag.CurrentPage + 1)">Sau</a>
+        }
+    </div>
+</div>
+
+<style>
+    .card-title a:hover {
+        text-decoration: none;
+    }
+
+    .card {
+        transition: transform 0.2s ease-in-out;
+    }
+
+    .card-footer .fav-job {
+        cursor: pointer;
+    }
+
+    .fav-job i {
+        font-size: 1.2rem;
+        color: #f00;
+    }
+
+    .btn-outline-dark {
+        background-color: #fff;
+        color: #000;
+        border-color: #000;
+    }
+
+        .btn-outline-dark:hover {
+            background-color: #000;
+            color: #fff;
+        }
+
+    .btn-success, .btn-danger {
+        margin-left: 5px;
+    }
+
+    .pagination {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+        .pagination a {
+            margin: 0 5px;
+        }
+</style>
