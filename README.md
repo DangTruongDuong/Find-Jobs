@@ -81,7 +81,7 @@ git clone https://github.com/DangTruongDuong/JobFinder.git
 
 ## 👤 Tác Giả
 
-- **Tên:** [Tên bạn]
+- **Tên:** [DangTruongDuong]
 - 📧 **Email:** [DangTruongDuong@2102@gmail.com]
 - 🌐 **GitHub:** [https://github.com/tenban](https://github.com/DangTruongDuong)
 
